@@ -7,7 +7,7 @@ namespace Opg02Array
         static void Main(string[] args)
         {
 
-            int[] månedsløn = { 10000, 20000, 15000, 20000 , 30000,15000 };
+            int[] månedsløn = { 10000, 20000, 15000, 20000, 30000, 15000 };
 
             double sum = 0;
 

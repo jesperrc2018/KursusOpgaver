@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg01Variabler", "Opg01Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg02Array", "Opg02Array\Opg02Array.csproj", "{FC9BA92D-5B85-4207-A24E-652A8EA26278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg03Strenge", "Opg03Strenge\Opg03Strenge.csproj", "{4F4D6097-F5A4-4F0E-BE03-A40A584F447D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg04SmaaOpgaver", "Opg04SmaaOpgaver\Opg04SmaaOpgaver.csproj", "{80363C74-D90B-4B69-B974-569E553BD327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FC9BA92D-5B85-4207-A24E-652A8EA26278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC9BA92D-5B85-4207-A24E-652A8EA26278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC9BA92D-5B85-4207-A24E-652A8EA26278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4D6097-F5A4-4F0E-BE03-A40A584F447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4D6097-F5A4-4F0E-BE03-A40A584F447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4D6097-F5A4-4F0E-BE03-A40A584F447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4D6097-F5A4-4F0E-BE03-A40A584F447D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80363C74-D90B-4B69-B974-569E553BD327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80363C74-D90B-4B69-B974-569E553BD327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80363C74-D90B-4B69-B974-569E553BD327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80363C74-D90B-4B69-B974-569E553BD327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
