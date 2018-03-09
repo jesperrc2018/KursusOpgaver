@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg03Strenge", "Opg03Streng
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg04SmaaOpgaver", "Opg04SmaaOpgaver\Opg04SmaaOpgaver.csproj", "{80363C74-D90B-4B69-B974-569E553BD327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05Klasser", "Opg05Klasser\Opg05Klasser.csproj", "{96B0041B-5EC6-4C6C-A58D-4136B51512C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg06Terning", "Opg06Terning\Opg06Terning.csproj", "{78CCAA9A-57B6-49DA-B6A1-E7FD8016809C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{80363C74-D90B-4B69-B974-569E553BD327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80363C74-D90B-4B69-B974-569E553BD327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80363C74-D90B-4B69-B974-569E553BD327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B0041B-5EC6-4C6C-A58D-4136B51512C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B0041B-5EC6-4C6C-A58D-4136B51512C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B0041B-5EC6-4C6C-A58D-4136B51512C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B0041B-5EC6-4C6C-A58D-4136B51512C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CCAA9A-57B6-49DA-B6A1-E7FD8016809C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CCAA9A-57B6-49DA-B6A1-E7FD8016809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CCAA9A-57B6-49DA-B6A1-E7FD8016809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CCAA9A-57B6-49DA-B6A1-E7FD8016809C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,8 +7,13 @@ namespace Opg04SmaaOpgaver
         static void Main(string[] args)
         {
 
+            //Beregn array
+            int[] intArray = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 9, 0, 0, 1, 2, 3, 14 };
+            var i = BeregnOgSorterArray(intArray);
+
             int res = LægSammen(5, 2);
             Console.WriteLine(res);
+             
 
             double res2 = BeregnAreal(5);
             Console.WriteLine(res2);
@@ -90,5 +95,28 @@ namespace Opg04SmaaOpgaver
                 Rekursion(++a);
             }
         }
-    }
+
+        static ArrayResultat BeregnOgSorterArray(int[] a)
+        {
+            ArrayResultat ar = new ArrayResultat();
+            int sum = 0;
+            foreach (var item in a)
+            {
+                sum += item;
+            }
+
+            System.Array.Sort(a);
+
+            ar.gennemsnit = sum / a.Length;
+            ar.sum = sum;
+
+            return ar;
+        }
+
+        struct ArrayResultat
+        {
+            public double sum;
+            public double gennemsnit;
+        }
+    } 
 }
