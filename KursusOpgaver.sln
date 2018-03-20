@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg15PolymorfiDyr", "Opg15P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg16Try", "Opg16Try\Opg16Try.csproj", "{F839A0BB-269E-4369-8DAA-BF4BEF8B10A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg17StockItemsException", "Opg17StockItemsException\Opg17StockItemsException.csproj", "{9D5D681F-3146-4D67-A168-B593442E76A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg18Logging", "Opg18Logging\Opg18Logging.csproj", "{D949F14F-A764-4786-821E-90AB691CED1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{F839A0BB-269E-4369-8DAA-BF4BEF8B10A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F839A0BB-269E-4369-8DAA-BF4BEF8B10A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F839A0BB-269E-4369-8DAA-BF4BEF8B10A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5D681F-3146-4D67-A168-B593442E76A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5D681F-3146-4D67-A168-B593442E76A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5D681F-3146-4D67-A168-B593442E76A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5D681F-3146-4D67-A168-B593442E76A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D949F14F-A764-4786-821E-90AB691CED1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D949F14F-A764-4786-821E-90AB691CED1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D949F14F-A764-4786-821E-90AB691CED1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D949F14F-A764-4786-821E-90AB691CED1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
